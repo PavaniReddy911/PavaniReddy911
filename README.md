@@ -7,3 +7,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,fastapi,html,css,git,github" />
 </p>
+
+## 🧩 LeetCode Practice
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pavanireddy911?theme=dark&font=Karma" />
+</p>
