@@ -5,5 +5,5 @@
 ## 🧰 Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,flask,fastapi,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,fastapi,html,css,git,github" />
 </p>
