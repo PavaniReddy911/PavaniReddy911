@@ -11,6 +11,5 @@
 ## 🧩 LeetCode Practice
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pavaniReddy911?theme=unicorn&font=JetBrains%20Mono&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/pavanireddy911?theme=nord&font=JetBrains%20Mono&ext=heatmap" />
 </p>
-
